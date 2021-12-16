@@ -45,7 +45,7 @@
         font-size: 2rem;
     }
     .home__img {
-        width: 500px;
+        width: 349px;
     }
     .home__social {
         display: none;
@@ -54,7 +54,7 @@
         width: max-content;
     }
     .home__social-moblie {
-        display: flex;
+        display: none;
     }
     .home__mobile {
         display: flex;
